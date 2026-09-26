@@ -1,0 +1,13 @@
+h1 {
+color:greenyellow;
+font-family: "Courier New", monospace;
+}
+body {
+  background-color: purple;
+}
+summary {
+    color:greenyellow
+}
+li {
+    font-size: larger;
+}
